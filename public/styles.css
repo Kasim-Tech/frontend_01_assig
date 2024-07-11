@@ -1,0 +1,59 @@
+
+header {
+    padding: 90px 0;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+header h2 {
+    font-size: 2rem;
+    color: #1DA1F2;
+}
+
+header p {
+    font-size: 1.25rem;
+    color: #6c757d;
+}
+
+header .btn-primary {
+    background-color: #1DA1F2;
+    border: none;
+}
+
+header .btn-primary:hover {
+    background-color: #0d8bd4;
+}
+
+section h3 {
+    font-size: 1.5rem;
+   
+}
+
+section h2 {
+    font-size: 2rem;
+    color: #333;
+}
+
+section p {
+    font-size: 1rem;
+    color: #6c757d;
+}
+.logo{
+    color: #2196f3;
+    size: 200px;
+    cursor: pointer;
+}
+.text-blue-500 {
+   
+    color: #007bff; 
+}
+#menu-para{
+    justify-content: center;
+    align-items: center;
+}
+.small-width-p {
+    max-width: 200px; /* Adjust the max-width as per your design needs */
+    margin: 0 auto; /* Center align the paragraph within its container */
+}
